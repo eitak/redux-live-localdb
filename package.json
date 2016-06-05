@@ -1,6 +1,6 @@
 {
   "name": "redux-live-localdb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "In memory implementation of Redux Live DB",
   "main": "index.js",
   "scripts": {
